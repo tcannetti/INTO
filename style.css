@@ -1,0 +1,44 @@
+body{
+  background-color: papayawhip;
+  
+}
+
+h1 {
+  text-align: center;
+  color: palevioletred;
+  text-decoration: overline;
+}
+h3 {
+  text-align: center;
+  color: palevioletred;
+  text-decoration: underline;
+}
+p {
+  text-align: end;
+  font-size: 19px;
+font-family: Arial;
+text-shadow: 1px 3px 4px grey;
+
+
+}
+.first-letter {
+  font-size: 30px;
+}
+.dreams:hover {
+  color: orange;
+}
+.barren{
+color: brown;
+}
+.wet:hover{
+  color: powderblue;
+}
+
+img{
+border-radius: 200px;
+width: 600px;
+}
+
+div{
+  text-align: center;
+}
